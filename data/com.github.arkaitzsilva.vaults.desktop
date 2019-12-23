@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Vaults
+Icon=com.github.arkaitzsilva.vaults
+Exec=com.github.arkaitzsilva.vaults
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Utility;
+Keywords=app;vala;
